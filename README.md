@@ -1,4 +1,3 @@
-Hi, I'm Tgilbe.   
 ```py
 def rif(da, foe, w0q, rie):
   if foe == True:
@@ -14,5 +13,3 @@ def kroair(jr5, opq, ne):
     rif(opq, ne, jr5, 's')
 kroair("r", opq, True)
 ```
-- Currently working on misc projects.
-- Contact me @ tgil.be
